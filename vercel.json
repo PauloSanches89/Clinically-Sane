@@ -6,12 +6,12 @@
     },
     "backend": {
       "root": ".",
-      "entrypoint": "app.main:app"
-    }
-  },
-  "functions": {
-    "app/main.py": {
-      "includeFiles": "data/clinics.json"
+      "entrypoint": "app.main:app",
+      "functions": {
+        "app/main.py": {
+          "includeFiles": "data/clinics.json"
+        }
+      }
     }
   },
   "rewrites": [

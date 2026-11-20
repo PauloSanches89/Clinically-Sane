@@ -1,0 +1,11 @@
+.env
+data/salt
+data/*.db
+data/today.json
+data/stats.json
+web/dist/
+__pycache__/
+*.pyc
+.venv/
+.vercel/
+web/node_modules/

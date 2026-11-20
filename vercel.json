@@ -1,0 +1,21 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "services": {
+    "frontend": {
+      "root": "web/"
+    },
+    "backend": {
+      "root": ".",
+      "entrypoint": "app.main:app"
+    }
+  },
+  "functions": {
+    "app/main.py": {
+      "includeFiles": "data/clinics.json"
+    }
+  },
+  "rewrites": [
+    { "source": "/api/(.*)", "destination": { "service": "backend" } },
+    { "source": "/(.*)", "destination": { "service": "frontend" } }
+  ]
+}

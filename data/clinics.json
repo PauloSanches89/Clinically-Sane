@@ -1,0 +1,776 @@
+[
+  {
+    "id": "adr",
+    "name": "Adriaanse Clinic",
+    "suburb": "Adriaanse",
+    "address": "40th Avenue",
+    "latitude": -33.937999,
+    "longitude": 18.584812,
+    "kind": "Clinic"
+  },
+  {
+    "id": "alb",
+    "name": "Albow Gardens CDC",
+    "suburb": "Milnerton",
+    "address": "2 Albow Road",
+    "latitude": -33.900283,
+    "longitude": 18.489928,
+    "kind": "Community Day Centre"
+  },
+  {
+    "id": "aap",
+    "name": "Alphen Satellite Clinic",
+    "suburb": "Constantia",
+    "address": "Main Road",
+    "latitude": -34.01934,
+    "longitude": 18.446149,
+    "kind": "Satellite Clinic"
+  },
+  {
+    "id": "blo",
+    "name": "Bloekombos Clinic",
+    "suburb": "Kraaifontein",
+    "address": "Sam Njokozela Avenue",
+    "latitude": -33.847092,
+    "longitude": 18.750796,
+    "kind": "Clinic"
+  },
+  {
+    "id": "blu",
+    "name": "Blue Downs Clinic",
+    "suburb": "Blue Downs",
+    "address": "Bentley Street",
+    "latitude": -33.977428,
+    "longitude": 18.686314,
+    "kind": "Clinic"
+  },
+  {
+    "id": "bra",
+    "name": "Brackenfell Clinic",
+    "suburb": "Brackenfell",
+    "address": "Paradys Street",
+    "latitude": -33.876792,
+    "longitude": 18.688279,
+    "kind": "Clinic"
+  },
+  {
+    "id": "bri",
+    "name": "Brighton Clinic",
+    "suburb": "Kraaifontein",
+    "address": "16 Gavin Street, Windsor Park",
+    "latitude": -33.841836,
+    "longitude": 18.705654,
+    "kind": "Clinic"
+  },
+  {
+    "id": "cha",
+    "name": "Chapel Street Clinic",
+    "suburb": "Woodstock",
+    "address": "Chapel Street",
+    "latitude": -33.928835,
+    "longitude": 18.439694,
+    "kind": "Clinic"
+  },
+  {
+    "id": "cby",
+    "name": "Chestnut Satellite Clinic",
+    "suburb": "Belhar",
+    "address": "50 Chestnut Way",
+    "latitude": -33.948968,
+    "longitude": 18.620564,
+    "kind": "Satellite Clinic"
+  },
+  {
+    "id": "cla",
+    "name": "Claremont Clinic",
+    "suburb": "Claremont",
+    "address": "Old Stanhope Road",
+    "latitude": -33.98298,
+    "longitude": 18.466897,
+    "kind": "Clinic"
+  },
+  {
+    "id": "cri",
+    "name": "Crossroads 1 Clinic",
+    "suburb": "Crossroads",
+    "address": "Klipfontein Road",
+    "latitude": -33.993357,
+    "longitude": 18.602948,
+    "kind": "Clinic"
+  },
+  {
+    "id": "dfs",
+    "name": "Delft South Clinic",
+    "suburb": "Delft",
+    "address": "Cnr Boyce Str and Delft Main Road",
+    "latitude": -33.99182,
+    "longitude": 18.633304,
+    "kind": "Clinic"
+  },
+  {
+    "id": "die",
+    "name": "Diep River Satellite Clinic",
+    "suburb": "Diep River",
+    "address": "10 Schaay Road",
+    "latitude": -34.034003,
+    "longitude": 18.466502,
+    "kind": "Satellite Clinic"
+  },
+  {
+    "id": "ivt",
+    "name": "Dr Ivan Toms CDC",
+    "suburb": "Mfuleni",
+    "address": "Cnr Ngubelani and Umabashe Streets",
+    "latitude": -33.991335,
+    "longitude": 18.671298,
+    "kind": "Community Day Centre"
+  },
+  {
+    "id": "ddo",
+    "name": "Driftsands Satellite Clinic",
+    "suburb": "Mfuleni",
+    "address": "Cnr Xwayi and Nkanti Street",
+    "latitude": -34.005538,
+    "longitude": 18.651265,
+    "kind": "Satellite Clinic"
+  },
+  {
+    "id": "eas",
+    "name": "Eastridge Clinic",
+    "suburb": "Eastridge, Mitchell'S Plain",
+    "address": "First Avenue",
+    "latitude": -34.046451,
+    "longitude": 18.621533,
+    "kind": "Clinic"
+  },
+  {
+    "id": "rus",
+    "name": "Eerste River Clinic",
+    "suburb": "Russels Rest, Eersterivier",
+    "address": "Bob's Way",
+    "latitude": -34.008988,
+    "longitude": 18.724483,
+    "kind": "Clinic"
+  },
+  {
+    "id": "erc",
+    "name": "Elsies River Clinic",
+    "suburb": "Elsies River",
+    "address": "9 Halt Road",
+    "latitude": -33.929805,
+    "longitude": 18.575257,
+    "kind": "Clinic"
+  },
+  {
+    "id": "fac",
+    "name": "Factreton Clinic",
+    "suburb": "Factreton",
+    "address": "36 Factreton Avenue",
+    "latitude": -33.909429,
+    "longitude": 18.511125,
+    "kind": "Clinic"
+  },
+  {
+    "id": "fag",
+    "name": "Fagan Street Satellite Clinic",
+    "suburb": "Strand",
+    "address": "22 Fagan Street",
+    "latitude": -34.116147,
+    "longitude": 18.829801,
+    "kind": "Satellite Clinic"
+  },
+  {
+    "id": "fis",
+    "name": "Fish Hoek Satellite Clinic",
+    "suburb": "Fish Hoek",
+    "address": "61 Central Circle",
+    "latitude": -34.137343,
+    "longitude": 18.427584,
+    "kind": "Satellite Clinic"
+  },
+  {
+    "id": "gor",
+    "name": "Gordon's Bay Clinic",
+    "suburb": "Gordons Bay",
+    "address": "1 C/o  Sir Lowry's Pass and Montainside Boulevard",
+    "latitude": -34.153258,
+    "longitude": 18.879088,
+    "kind": "Clinic"
+  },
+  {
+    "id": "gug",
+    "name": "Guguletu Clinic",
+    "suburb": "Guguletu",
+    "address": "Cnr NY1 and NY3",
+    "latitude": -33.987295,
+    "longitude": 18.565995,
+    "kind": "Clinic"
+  },
+  {
+    "id": "par",
+    "name": "Hanover Park Clinic",
+    "suburb": "Hanover Park",
+    "address": "Hanover Park Avenue",
+    "latitude": -33.994731,
+    "longitude": 18.526613,
+    "kind": "Clinic"
+  },
+  {
+    "id": "har",
+    "name": "Harmonie Clinic",
+    "suburb": "Kraaifontein",
+    "address": "Frans Conradie Avenue",
+    "latitude": -33.851323,
+    "longitude": 18.711695,
+    "kind": "Clinic"
+  },
+  {
+    "id": "hai",
+    "name": "Hazendal Satellite Clinic",
+    "suburb": "Hazendal",
+    "address": "Kuils Road",
+    "latitude": -33.957923,
+    "longitude": 18.505199,
+    "kind": "Satellite Clinic"
+  },
+  {
+    "id": "hbm",
+    "name": "Hout Bay Main Road Clinic",
+    "suburb": "Houtbay",
+    "address": "Main Road",
+    "latitude": -34.029121,
+    "longitude": 18.357127,
+    "kind": "Clinic"
+  },
+  {
+    "id": "ikw",
+    "name": "Ikhwezi CDC",
+    "suburb": "Nomzamo",
+    "address": "3 Simon Street",
+    "latitude": -34.113451,
+    "longitude": 18.86652,
+    "kind": "Community Day Centre"
+  },
+  {
+    "id": "kli",
+    "name": "Klip Road Clinic",
+    "suburb": "Grassy Park",
+    "address": "167 Klip Road",
+    "latitude": -34.035498,
+    "longitude": 18.503226,
+    "kind": "Clinic"
+  },
+  {
+    "id": "kui",
+    "name": "Kuilsriver Clinic",
+    "suburb": "Kuilsrivier",
+    "address": "Carinus Street",
+    "latitude": -33.925358,
+    "longitude": 18.681309,
+    "kind": "Clinic"
+  },
+  {
+    "id": "kuy",
+    "name": "Kuyasa CDC",
+    "suburb": "Kuyasa, Khayelitsha",
+    "address": "4 Ntlazana Street",
+    "latitude": -34.056045,
+    "longitude": 18.689339,
+    "kind": "Community Day Centre"
+  },
+  {
+    "id": "kwd",
+    "name": "Kuyasa Male Clinic",
+    "suburb": "Khayelitsha",
+    "address": "Walter Sisulu Road",
+    "latitude": -34.05376,
+    "longitude": 18.695001,
+    "kind": "Special Clinic"
+  },
+  {
+    "id": "lan",
+    "name": "Langa Clinic",
+    "suburb": "Langa",
+    "address": "Washington Street",
+    "latitude": -33.94417,
+    "longitude": 18.52761,
+    "kind": "Clinic"
+  },
+  {
+    "id": "lns",
+    "name": "Lansdowne Clinic",
+    "suburb": "Lansdowne",
+    "address": "505 Lansdowne Road",
+    "latitude": -33.991456,
+    "longitude": 18.505183,
+    "kind": "Clinic"
+  },
+  {
+    "id": "lav",
+    "name": "Lavender Hill Clinic",
+    "suburb": "Lavender Hill",
+    "address": "74 Grindle Crescent",
+    "latitude": -34.068408,
+    "longitude": 18.485979,
+    "kind": "Clinic"
+  },
+  {
+    "id": "len",
+    "name": "Lentegeur Clinic",
+    "suburb": "Lentegeur, Mitchells Plain",
+    "address": "99 Merrydale Avenue",
+    "latitude": -34.034274,
+    "longitude": 18.609925,
+    "kind": "Clinic"
+  },
+  {
+    "id": "lsd",
+    "name": "Leonsdale Satellite Clinic",
+    "suburb": "Leonsdale",
+    "address": "12th Avenue",
+    "latitude": -33.919277,
+    "longitude": 18.575674,
+    "kind": "Satellite Clinic"
+  },
+  {
+    "id": "luv",
+    "name": "Luvuyo CDC",
+    "suburb": "Makhaza, Khayelitsha",
+    "address": "8 Hlela Street",
+    "latitude": -34.050287,
+    "longitude": 18.709568,
+    "kind": "Community Day Centre"
+  },
+  {
+    "id": "mai",
+    "name": "Maitland Clinic",
+    "suburb": "Maitland",
+    "address": "2 Norfolk Road",
+    "latitude": -33.922016,
+    "longitude": 18.489356,
+    "kind": "Clinic"
+  },
+  {
+    "id": "smc",
+    "name": "Male (Site B) Clinic",
+    "suburb": "Khayelitsha",
+    "address": "98 Sulani Dr",
+    "latitude": -34.026399,
+    "longitude": 18.666103,
+    "kind": "Special Clinic"
+  },
+  {
+    "id": "mbg",
+    "name": "Mandalay Satellite Clinic",
+    "suburb": "Mitchell'S Plain",
+    "address": "48 Ryan Way",
+    "latitude": -34.015612,
+    "longitude": 18.629278,
+    "kind": "Satellite Clinic"
+  },
+  {
+    "id": "man",
+    "name": "Manenberg Clinic",
+    "suburb": "Manenberg",
+    "address": "Manenberg Avenue",
+    "latitude": -33.988787,
+    "longitude": 18.554788,
+    "kind": "Clinic"
+  },
+  {
+    "id": "mas",
+    "name": "Masincedane Clinic",
+    "suburb": "Nyanga",
+    "address": "Mjodo Street",
+    "latitude": -33.987562,
+    "longitude": 18.579612,
+    "kind": "Clinic"
+  },
+  {
+    "id": "map",
+    "name": "Masiphumelele Clinic",
+    "suburb": "Masiphumelele",
+    "address": "32 Skina Road",
+    "latitude": -34.128919,
+    "longitude": 18.379018,
+    "kind": "Clinic"
+  },
+  {
+    "id": "mag",
+    "name": "Matthew Goniwe CDC",
+    "suburb": "Khayelitsha",
+    "address": "9 Khwahlaza Street",
+    "latitude": -34.044079,
+    "longitude": 18.705713,
+    "kind": "Community Day Centre"
+  },
+  {
+    "id": "may",
+    "name": "Mayenzeke Clinic",
+    "suburb": "Khayelitsha",
+    "address": "43 Fundana Street",
+    "latitude": -34.0521,
+    "longitude": 18.701994,
+    "kind": "Clinic"
+  },
+  {
+    "id": "mec",
+    "name": "Melkbosstrand Clinic",
+    "suburb": "Melkbosstrand",
+    "address": "Robben Road",
+    "latitude": -33.717079,
+    "longitude": 18.447446,
+    "kind": "Clinic"
+  },
+  {
+    "id": "mce",
+    "name": "Men's Health Satellite Clinic",
+    "suburb": "Bellville",
+    "address": "90 C/O Charl Malan; Belrail road",
+    "latitude": -33.904795,
+    "longitude": 18.630667,
+    "kind": "Satellite Clinic"
+  },
+  {
+    "id": "mui",
+    "name": "Muizenberg Clinic",
+    "suburb": "Muizenberg",
+    "address": "6 Atlantic Road",
+    "latitude": -34.106762,
+    "longitude": 18.47034,
+    "kind": "Clinic"
+  },
+  {
+    "id": "mza",
+    "name": "Mzamomhle Clinic",
+    "suburb": "Browns Farm, Philllipi",
+    "address": "Sagwityi Road",
+    "latitude": -34.010502,
+    "longitude": 18.589143,
+    "kind": "Clinic"
+  },
+  {
+    "id": "net",
+    "name": "Netreg Clinic",
+    "suburb": "Bonteheuwel",
+    "address": "Cnr Jakkalsvlei and Bonteheuwel Avenues",
+    "latitude": -33.948889,
+    "longitude": 18.560278,
+    "kind": "Clinic"
+  },
+  {
+    "id": "nor",
+    "name": "Northpine Clinic",
+    "suburb": "Brackenfell",
+    "address": "39 Northpine Drive",
+    "latitude": -33.871159,
+    "longitude": 18.710775,
+    "kind": "Clinic"
+  },
+  {
+    "id": "oce",
+    "name": "Ocean View CDC",
+    "suburb": "Ocean View",
+    "address": "Pollux Way",
+    "latitude": -34.148155,
+    "longitude": 18.35098,
+    "kind": "Community Day Centre"
+  },
+  {
+    "id": "prk",
+    "name": "Parkwood Clinic",
+    "suburb": "Parkwood Estate",
+    "address": "2 Parkwood Avenue",
+    "latitude": -34.032266,
+    "longitude": 18.4929,
+    "kind": "Clinic"
+  },
+  {
+    "id": "ppk",
+    "name": "Pelican Park CDC",
+    "suburb": "Pelican Park",
+    "address": "215 Oystercatcher Road",
+    "latitude": -34.059808,
+    "longitude": 18.5244,
+    "kind": "Community Day Centre"
+  },
+  {
+    "id": "phi",
+    "name": "Philippi Clinic",
+    "suburb": "Philippi",
+    "address": "4 Ottery Road",
+    "latitude": -34.000311,
+    "longitude": 18.539228,
+    "kind": "Clinic"
+  },
+  {
+    "id": "phu",
+    "name": "Phumlani Clinic",
+    "suburb": "Phillippi East",
+    "address": "Stock Road",
+    "latitude": -34.010376,
+    "longitude": 18.607667,
+    "kind": "Clinic"
+  },
+  {
+    "id": "pbt",
+    "name": "Pinelands Satellite Clinic",
+    "suburb": "Pineland",
+    "address": "2 Corner of St Stephen's Road and Central Square",
+    "latitude": -33.938457,
+    "longitude": 18.498619,
+    "kind": "Satellite Clinic"
+  },
+  {
+    "id": "rag",
+    "name": "Redhill Satellite",
+    "suburb": "Simon's Town",
+    "address": "119 Scarbourgh Road",
+    "latitude": -34.205945,
+    "longitude": 18.399782,
+    "kind": "Satellite Clinic"
+  },
+  {
+    "id": "roc",
+    "name": "Rocklands Clinic",
+    "suburb": "Rocklands",
+    "address": "Park Avenue",
+    "latitude": -34.064535,
+    "longitude": 18.610856,
+    "kind": "Clinic"
+  },
+  {
+    "id": "rrs",
+    "name": "Ruimte Road Satellite Clinic",
+    "suburb": "Manenberg",
+    "address": "Ruimte Road",
+    "latitude": -33.981175,
+    "longitude": 18.549743,
+    "kind": "Satellite Clinic"
+  },
+  {
+    "id": "sar",
+    "name": "Sarepta Clinic",
+    "suburb": "Sarepta",
+    "address": "Rietvlei Road",
+    "latitude": -33.931762,
+    "longitude": 18.671771,
+    "kind": "Clinic"
+  },
+  {
+    "id": "sap",
+    "name": "Schotscheskloof Satellite Clinic",
+    "suburb": "Schotsche Kloof",
+    "address": "Wale Street",
+    "latitude": -33.919963,
+    "longitude": 18.413518,
+    "kind": "Satellite Clinic"
+  },
+  {
+    "id": "sea",
+    "name": "Seawind Clinic",
+    "suburb": "Lavender Hill",
+    "address": "Military Road",
+    "latitude": -34.074925,
+    "longitude": 18.490334,
+    "kind": "Clinic"
+  },
+  {
+    "id": "sil",
+    "name": "Silvertown Clinic",
+    "suburb": "Silvertown",
+    "address": "30 Petunia Street",
+    "latitude": -33.966069,
+    "longitude": 18.534451,
+    "kind": "Clinic"
+  },
+  {
+    "id": "sta",
+    "name": "Simon's Town Satellite Clinic",
+    "suburb": "Simon's Town",
+    "address": "119 St Georges Street",
+    "latitude": -34.193189,
+    "longitude": 18.434967,
+    "kind": "Satellite Clinic"
+  },
+  {
+    "id": "sir",
+    "name": "Sir Lowry's Pass CDC",
+    "suburb": "Sir Lowrys Pass",
+    "address": "C/o Sir Lowry's Pass Road and Mandela Avenue",
+    "latitude": -34.119444,
+    "longitude": 18.908611,
+    "kind": "Community Day Centre"
+  },
+  {
+    "id": "sby",
+    "name": "Site B Youth Clinic",
+    "suburb": "Site B, Khayelitsha",
+    "address": "Cnr of Pama & Lwandle Road",
+    "latitude": -34.029525,
+    "longitude": 18.665675,
+    "kind": "Special Clinic"
+  },
+  {
+    "id": "sbs",
+    "name": "Site C Youth Clinic",
+    "suburb": "Khayelitsha",
+    "address": "48 Solomon Tshuku Avenue",
+    "latitude": -34.013488,
+    "longitude": 18.650076,
+    "kind": "Special Clinic"
+  },
+  {
+    "id": "som",
+    "name": "Somerset West CDC",
+    "suburb": "Somerset West",
+    "address": "28 Church Street",
+    "latitude": -34.085934,
+    "longitude": 18.848291,
+    "kind": "Community Day Centre"
+  },
+  {
+    "id": "spe",
+    "name": "Spencer Road Clinic",
+    "suburb": "Salt River",
+    "address": "13 Spencer Road",
+    "latitude": -33.929024,
+    "longitude": 18.464947,
+    "kind": "Clinic"
+  },
+  {
+    "id": "sfl",
+    "name": "St Vincent (CCT) CDC",
+    "suburb": "Belhar",
+    "address": "St Vincent Drive",
+    "latitude": -33.945168,
+    "longitude": 18.64858,
+    "kind": "Community Day Centre"
+  },
+  {
+    "id": "str",
+    "name": "Strandfontein Clinic",
+    "suburb": "Strandfontein",
+    "address": "Welgelegen Road",
+    "latitude": -34.073132,
+    "longitude": 18.554754,
+    "kind": "Clinic"
+  },
+  {
+    "id": "tab",
+    "name": "Table View Clinic",
+    "suburb": "Table View",
+    "address": "South Road",
+    "latitude": -33.832853,
+    "longitude": 18.512798,
+    "kind": "Clinic"
+  },
+  {
+    "id": "taf",
+    "name": "Tafelsig CDC",
+    "suburb": "Mitchells Plain",
+    "address": "14 Kilimanjaro Street",
+    "latitude": -34.062265,
+    "longitude": 18.637348,
+    "kind": "Community Day Centre"
+  },
+  {
+    "id": "tot",
+    "name": "Town 2 CDC",
+    "suburb": "Town 2, Khayelitsha",
+    "address": "Cnr Zibonele & Manyano Street",
+    "latitude": -34.040009,
+    "longitude": 18.683206,
+    "kind": "Community Day Centre"
+  },
+  {
+    "id": "uit",
+    "name": "Uitsig Clinic",
+    "suburb": "Uitsig",
+    "address": "Hibiscus Road",
+    "latitude": -33.935681,
+    "longitude": 18.599893,
+    "kind": "Clinic"
+  },
+  {
+    "id": "val",
+    "name": "Valhalla Park Clinic",
+    "suburb": "Valhalla park",
+    "address": "1 Johannes Street",
+    "latitude": -33.953523,
+    "longitude": 18.570382,
+    "kind": "Clinic"
+  },
+  {
+    "id": "vuy",
+    "name": "Vuyani Clinic",
+    "suburb": "Guguletu",
+    "address": "NY 134 and NY 133",
+    "latitude": -33.972981,
+    "longitude": 18.569569,
+    "kind": "Clinic"
+  },
+  {
+    "id": "wal",
+    "name": "Wallacedene Clinic",
+    "suburb": "Wallace dene",
+    "address": "La Boheme Avenue",
+    "latitude": -33.858196,
+    "longitude": 18.736441,
+    "kind": "Clinic"
+  },
+  {
+    "id": "wel",
+    "name": "Weltevreden Valley Clinic",
+    "suburb": "Weltevreden Valley",
+    "address": "10 Leonard Radu Road",
+    "latitude": -34.01702,
+    "longitude": 18.583935,
+    "kind": "Clinic"
+  },
+  {
+    "id": "wes",
+    "name": "Wesbank Clinic",
+    "suburb": "Wesbank",
+    "address": "40 Silversands Road",
+    "latitude": -33.969639,
+    "longitude": 18.659403,
+    "kind": "Clinic"
+  },
+  {
+    "id": "wek",
+    "name": "Westlake Clinic",
+    "suburb": "Westlake",
+    "address": "44 Westlake Drive",
+    "latitude": -34.075639,
+    "longitude": 18.439209,
+    "kind": "Clinic"
+  },
+  {
+    "id": "wer",
+    "name": "Westridge Clinic",
+    "suburb": "Westridge, Mitchell'S Plain",
+    "address": "14 Simonsig Ave",
+    "latitude": -34.051631,
+    "longitude": 18.603973,
+    "kind": "Clinic"
+  },
+  {
+    "id": "wyn",
+    "name": "Wynberg Clinic",
+    "suburb": "Wynberg",
+    "address": "2 Lower Maynard Road",
+    "latitude": -34.004622,
+    "longitude": 18.470157,
+    "kind": "Clinic"
+  },
+  {
+    "id": "zkh",
+    "name": "Zakhele Clinic",
+    "suburb": "Khayelitsha",
+    "address": "6 Zakhele Street",
+    "latitude": -34.041175,
+    "longitude": 18.659219,
+    "kind": "Clinic"
+  }
+]

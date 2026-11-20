@@ -40,9 +40,12 @@ def salt() -> bytes:
     if SALT_PATH.exists():
         _salt = SALT_PATH.read_text(encoding="utf-8").strip().encode()
         return _salt
-    SALT_PATH.parent.mkdir(parents=True, exist_ok=True)
     generated = secrets.token_hex(32)
-    SALT_PATH.write_text(generated, encoding="utf-8")
+    try:
+        SALT_PATH.parent.mkdir(parents=True, exist_ok=True)
+        SALT_PATH.write_text(generated, encoding="utf-8")
+    except OSError:
+        pass
     _salt = generated.encode()
     return _salt
 

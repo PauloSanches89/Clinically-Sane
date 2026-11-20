@@ -177,7 +177,7 @@ def clinics() -> list[dict]:
 
 
 @app.post("/api/reports")
-async def create_report(body: ReportIn, request: Request) -> dict:
+def create_report(body: ReportIn, request: Request) -> dict:
     if body.clinic_id not in CLINICS:
         raise HTTPException(status_code=404, detail="Unknown clinic")
     if body.minutes is None and body.line_length is None:
